@@ -1,4 +1,4 @@
----
+don't kil my apps--
 manufacturer:
     - tecno
 
